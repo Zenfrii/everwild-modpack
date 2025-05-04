@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","black_icons","continuity:default","continuity:glass_pane_culling_fix","crittersandcompanions:friendlyart","file/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip","file/FreshAnimations_v1.9.2.zip","railways:green_signals"]

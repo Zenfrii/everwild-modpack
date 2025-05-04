@@ -1,0 +1,13 @@
+name = "The Everwild"
+author = "Zenfrii"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "620e7a584e37079276765b1577b2fbadd0f17430d6af0eb2889bec1c1e2f767f"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"
