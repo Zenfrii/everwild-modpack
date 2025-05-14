@@ -50,6 +50,11 @@ hash = "799e7d021483cc525c21ddbeb04622e60e7ee9dbd2f9f9f5cc3b28c51b348f3a"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
 metafile = true
@@ -166,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "4aca022df5de9baee8a9eb2875d8351a7803697238b5f8731126df2947bd76b4"
+hash = "c09532d920ea6c54dbe63edf9012f92727e4b14c5680c8e9ab5a9279c98f0b6f"
 metafile = true
 
 [[files]]
@@ -207,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bbe6dfe76d6fd42096d860f1141b06ae51a3adb7cad068fc0d3b8a795a92ce84"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
@@ -346,6 +346,16 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "6d06309c695aac635bb066f004abe5ddee0ba3569133d6ac00d84d7645bb8d3a"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "2de740eca139e92be3371b5ae003627a9ecd7bcf96d5713152b06a8734c2bdce"
 metafile = true
 
 [[files]]
@@ -499,13 +509,18 @@ hash = "98ccdead4ab8ee14a1a20031e87bf003188f476c94c7d2d6997f690ab93f49a8"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7c7afe7a0bcc7b5d40a8cab53911d2670ad0e3c083fcdfbe6df9095c7331ae4b"
+metafile = true
+
+[[files]]
 file = "mods/xaero-zoomout.pw.toml"
 hash = "0fa5bab5449065f1ffe3f594063f28b10d57f4c95db5d2f3416e857abbd447a3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c26589f7f564512934f51322d2608f829eee8903bf1945d6859acfa7cdeb47ec"
+hash = "c14a2c8d1d1ee116fac633256631c2b8c0febe0238108fb35b19021d6edc4df3"
 metafile = true
 
 [[files]]
@@ -530,5 +545,5 @@ file = "servers.dat"
 hash = "f3d83e78289aa0625554402f91c5ed99960036911c8c44a1335b381d9ab3ce23"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
-hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
+file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
+hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
