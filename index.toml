@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "c09532d920ea6c54dbe63edf9012f92727e4b14c5680c8e9ab5a9279c98f0b6f"
+hash = "4f4abd0055da9716f9cde9bf1ea1866c14a71c4d3330769b24da86254a2ae7b9"
 metafile = true
 
 [[files]]
@@ -215,6 +215,11 @@ hash = "bbe6dfe76d6fd42096d860f1141b06ae51a3adb7cad068fc0d3b8a795a92ce84"
 metafile = true
 
 [[files]]
+file = "mods/glass-armor.pw.toml"
+hash = "7d96e5390b84e0f484a6de91180c330634833f826856dee0930cfc5318f3edd0"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "3dff7afe1547c769dc62c85ddb7c7959bce8b8f4068b7619260368630ab37821"
 metafile = true
@@ -246,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a1d48cedcbb9151db74d7fd44ac448d0f23c15796f419b8397189699447b9f3b"
+hash = "7337ae8d1250b2895c037a6c7aa1a85d2965537d512dda27871674ed04a08094"
 metafile = true
 
 [[files]]
@@ -525,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "02df0a899fecdd9502a1aafb1733374f50c93673f032a9454f95bb75ff87404e"
+hash = "577f94e5be86eadb5dc21f2fb92a4b2acee2a5cd6c8d7f9903a02ee3f7076a49"
 metafile = true
 
 [[files]]

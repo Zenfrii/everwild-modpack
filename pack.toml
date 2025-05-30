@@ -1,12 +1,12 @@
 name = "The Everwild"
 author = "Zenfrii"
-version = "1.4.0"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d2685a7a811dd60639c77c31baba8cdfd818b24a171513436470ea3526f74a73"
+hash = "7caf883adb831e880524f69b325d1379d97ac683d11d80a25ed51f1ff3bfe415"
 
 [versions]
 fabric = "0.16.14"
